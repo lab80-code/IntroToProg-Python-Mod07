@@ -7,7 +7,6 @@
 #   Lora Berger,2024-11-25,Updated Script - Added Person and Student Classes
 # ------------------------------------------------------------------------------------------ #
 import json
-from msilib.schema import Property
 
 # Define the Data Constants
 MENU: str = '''
